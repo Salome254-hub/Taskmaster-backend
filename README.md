@@ -6,8 +6,9 @@
 
 This is an application that can be used by employees to post,edit and update their daily tasks. Here is the frontend repository link [frontend](https://github.com/Salome254-hub/Taskmaster)
 
-## Getting Started
 
+## Getting Started
+---
 ### Backend Setup
 
 This repository has all the starter code needed to get a Sinatra backend up and
