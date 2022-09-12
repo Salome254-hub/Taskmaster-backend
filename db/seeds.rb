@@ -1,25 +1,53 @@
-puts "🌱 Seeding messages..."
+puts "Seeding messages..."
 
 Message.create([
   {
-    body: "Hello 👋",
-    username: "Liza"
+    body: "Software development, modeling, simulation, testing, and quality assurance",
+    username: "Mayson"
   },
   {
-    body: "Hi!",
-    username: "Duane"
+    body: "Object-oriented design",
+    username: "Elsie"
   },
   {
-    body: "let's get this chat app working",
-    username: "Liza"
+    body: "Analysis of user requirements, software, and code",
+    username: "Arnold"
   },
   {
-    body: "ngl, this looks like a lot 😬",
-    username: "Duane"
+    body: "Completing systems risk and reliability analysis",
+    username: "Lynn"
   },
+  {
+    body: "Object-oriented analysis",
+    username: "Will"
+  }
+  {
+    body: "Monitoring systems performance",
+    username: "Lizzy"
+  }
+  {
+    body: "Perform maintenance and software integrations for existing systems",
+    username: "Larry"
+  }
+  {
+    body: "Maintain compliance with industry standards",
+    username: "Ivy"
+  }
+  {
+    body: "Application development for the full lifecycle of software",
+    username: "Mark"
+  }
+  {
+    body: "Identify and assess new technologies prior to implementation",
+    username: "Ruthy"
+  }
+  {
+    body: "we can do this! 💪",
+    username: "Team manager"
+  }
   {
     body: "You got this! 💪",
-    username: "Liza"
+    username: "Boss"
   }
 ])
 
