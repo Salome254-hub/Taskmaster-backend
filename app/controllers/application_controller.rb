@@ -8,11 +8,17 @@ class ApplicationController < Sinatra::Base
   end
 
   post '/' do
-    message=Task.create(body:params[:body],username:params[:username])
-    message.to_json
+    tasks=Task.create(body:params[:body],username:params[:username])
+    tasks.to_json
   end
 
-
+  patch '/tasks/:id' do
+    tasks=Task.find(params[:id])
+    tasks.update(
+      body: params[:body]
+    )
+    tasks.to_json
+  end
 
 
 
