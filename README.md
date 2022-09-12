@@ -17,7 +17,7 @@ running. [**Fork and clone**] this repository to get started. Then, run
 **Important**: Be sure you fork a copy of the repo into your GitHub account
 before cloning it. You can do this by using the link below.
 
-[fork link]: git@github.com:Salome254-hub/Taskmaster-backend.git
+[fork link](https://github.com/Salome254-hub/Taskmaster-backend)
 
 
 
