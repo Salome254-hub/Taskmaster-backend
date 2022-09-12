@@ -12,7 +12,7 @@ This is an application that can be used by employees to post,edit and update the
 ### Backend Setup
 
 This repository has all the starter code needed to get a Sinatra backend up and
-running. [**Fork and clone**] this repository to get started. Then, run
+running. **Fork and clone** this repository to get started. Then, run
 `bundle install` to install the gems.
 
 **Important**: Be sure you fork a copy of the repo into your GitHub account
