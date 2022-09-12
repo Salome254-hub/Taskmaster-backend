@@ -4,13 +4,7 @@
 
 ## Introduction
 
-Congrats on getting through all the material for Phase 3! Now's the time to put
-it all together and build something from scratch to reinforce what you know and
-expand your horizons.
-
-The focus of this project is **building a Sinatra API backend** that uses
-**Active Record** to access and persist data in a database, which will be used
-by a separate **React frontend** that interacts with the database via the API.
+This is an application that can be used by employees to post,edit and update their daily tasks. Here is the frontend repository link 
 
 ## Getting Started
 
